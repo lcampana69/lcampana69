@@ -1,4 +1,4 @@
-- 👋 Hi, I’mLorenzo Campana Fernández from Spain (Madrid)
+- 👋 Hi, I’m Lorenzo Campana Fernández from Spain (Madrid)
 - 👀 I’m interested news technologies both Hardware and Software
 - 🌱 I’m currently learning Flutter (frontend) and Supabase (backend) 
 - 💞️ I’m looking to collaborate on those developments focused in the IoT ecosystem 
