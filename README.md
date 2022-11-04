@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Flutter (frontend) and Supabase (backend) 
 - 💞️ I’m looking to collaborate on those developments focused in the IoT ecosystem 
 - 📫 How to reach me : lcampana70@gmail.com
+- Docker 
 
 
 <!---
